@@ -12,3 +12,6 @@ fact x=i;
 System.out.println("the factorial of "+n+”i:”+fact);
 }
 }
+
+Output 
+The factorial of 7 is:5040
